@@ -1,0 +1,6 @@
+partido,nivel_rival,modelo_partido,tipo_rendimiento,diferencia,pases_totales,precision_pase,pases_campo_rival_%,pases_zona_peligrosa,eventos_por_minuto
+Real Sociedad vs Osasuna,Medio,Dominante,Muy eficiente,9.919821120287487,491,82.48,41.96,35,9.11
+Athletic Club vs Real Sociedad,Alto,Vertical eficiente,Eficiente,2.43501856216092,398,74.62,31.41,16,9.01
+Mallorca vs Real Sociedad,Medio,Dominio estéril,Poco eficiente,-1.4461305164417766,581,82.1,45.96,28,9.7
+Real Sociedad vs Barcelona,Muy alto,Ritmo bajo,Poco eficiente,-4.079572505406141,257,64.2,34.63,13,6.67
+Real Sociedad vs Celta de Vigo,Medio,Dominio estéril,Ineficiente,-6.829136660600575,381,81.63,41.73,18,7.81

@@ -1,0 +1,16 @@
+﻿fase_táctica,métrica,métrica_visible,Real Sociedad,Media liga,Diferencia,Ranking liga,diagnóstico
+Construcción / control,posesion_%,Posesión,50.4,49.82,0.58,9,Por encima de la media
+Construcción / control,pases_totales,Pases totales,13344.0,13161.9,182.1,8,Por encima de la media
+Progresión territorial,pases_campo_rival_%,% pases en campo rival,76.02,75.53,0.49,8,Por encima de la media
+Finalización,goles,Goles,46.0,40.3,5.7,5,Fortaleza destacada
+Finalización,remates_totales,Remates totales,287.0,277.75,9.25,7,Por encima de la media
+Finalización,conversion_gol_%,% conversión de gol,16.03,14.37,1.66,4,Fortaleza destacada
+Presión,ppda,PPDA,10.5,12.23,-1.73,16,Presiona mejor que la media
+Presión / defensa activa,acciones_defensivas,Acciones defensivas,916.0,797.15,118.85,3,Fortaleza destacada
+Solidez defensiva,remates_concedidos,Remates concedidos,396.0,376.1,19.9,6,Concede más remates que la media
+Dominio territorial,indice_dominio,Índice de dominio territorial,44.86,42.98,1.88,9,Por encima de la media
+Amenaza ofensiva,indice_amenaza,Índice de amenaza ofensiva,41.41,36.2,5.21,6,Por encima de la media
+Eficacia ofensiva,indice_eficacia,Índice de eficacia,61.82,46.73,15.09,5,Fortaleza destacada
+Presión defensiva,indice_presion,Índice de presión defensiva,71.93,40.96,30.97,3,Fortaleza destacada
+Solidez defensiva,indice_solidez,Índice de solidez defensiva,48.23,53.27,-5.04,15,Aspecto a mejorar
+Perfil global,indice_global_equipo,Índice global de equipo,51.95,43.27,8.68,4,Fortaleza destacada

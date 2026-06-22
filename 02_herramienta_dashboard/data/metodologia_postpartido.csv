@@ -1,0 +1,6 @@
+﻿paso,bloque,descripcion,valor_tfm
+1,Contexto del rival,"Se parte del estilo táctico del rival, sus índices colectivos y su jugador clave detectado.",Conecta el análisis previo con la lectura posterior del partido.
+2,Plan con balón,Se evalúa si la Real Sociedad ejecuta la propuesta ofensiva prevista para ese rival.,Permite medir si el equipo impuso su modelo ofensivo.
+3,Plan sin balón,"Se analiza si la estructura defensiva, la presión y las vigilancias fueron adecuadas.",Relaciona el plan defensivo con el tipo de amenaza rival.
+4,Jugador clave rival,Se comprueba si el jugador rival destacado tuvo influencia real en el partido.,Integra análisis colectivo e individual.
+5,Conclusión y ajuste,Se extraen aprendizajes para futuros partidos ante rivales de perfil similar.,Convierte el análisis en una herramienta útil para cuerpo técnico.

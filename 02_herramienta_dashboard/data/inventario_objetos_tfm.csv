@@ -1,0 +1,127 @@
+﻿tipo_objeto,nombre_objeto,filas,columnas,uso_tfm
+Figura / Gráfico,fig_amenaza_eficacia,,,Visualización disponible para dashboard o presentación
+Figura / Gráfico,fig_barras_rs,,,Visualización disponible para dashboard o presentación
+Figura / Gráfico,fig_defensivo_informe,,,Visualización disponible para dashboard o presentación
+Figura / Gráfico,fig_dominio_amenaza,,,Visualización disponible para dashboard o presentación
+Figura / Gráfico,fig_jugadores_clave_rivales,,,Visualización disponible para dashboard o presentación
+Figura / Gráfico,fig_lideres_fase,,,Visualización disponible para dashboard o presentación
+Figura / Gráfico,fig_limpio_1,,,Visualización disponible para dashboard o presentación
+Figura / Gráfico,fig_limpio_2,,,Visualización disponible para dashboard o presentación
+Figura / Gráfico,fig_limpio_3,,,Visualización disponible para dashboard o presentación
+Figura / Gráfico,fig_limpio_4,,,Visualización disponible para dashboard o presentación
+Figura / Gráfico,fig_madurez,,,Visualización disponible para dashboard o presentación
+Figura / Gráfico,fig_mapa_estilos,,,Visualización disponible para dashboard o presentación
+Figura / Gráfico,fig_matriz_riesgo_5,,,Visualización disponible para dashboard o presentación
+Figura / Gráfico,fig_ofensivo_informe,,,Visualización disponible para dashboard o presentación
+Figura / Gráfico,fig_posesion_campo_rival,,,Visualización disponible para dashboard o presentación
+Figura / Gráfico,fig_presion_solidez,,,Visualización disponible para dashboard o presentación
+Figura / Gráfico,fig_q1,,,Visualización disponible para dashboard o presentación
+Figura / Gráfico,fig_q2,,,Visualización disponible para dashboard o presentación
+Figura / Gráfico,fig_q3,,,Visualización disponible para dashboard o presentación
+Figura / Gráfico,fig_q4,,,Visualización disponible para dashboard o presentación
+Figura / Gráfico,fig_quadrant_def,,,Visualización disponible para dashboard o presentación
+Figura / Gráfico,fig_quadrant_of,,,Visualización disponible para dashboard o presentación
+Figura / Gráfico,fig_radar_5_rivales,,,Visualización disponible para dashboard o presentación
+Figura / Gráfico,fig_radar_rs,,,Visualización disponible para dashboard o presentación
+Figura / Gráfico,fig_ranking_total_jugadores,,,Visualización disponible para dashboard o presentación
+Figura / Gráfico,fig_real_quad,,,Visualización disponible para dashboard o presentación
+Figura / Gráfico,fig_riesgo_rivales,,,Visualización disponible para dashboard o presentación
+Figura / Gráfico,fig_top3_amenazas,,,Visualización disponible para dashboard o presentación
+Figura / Gráfico,fig_top3_amenazas_limpio,,,Visualización disponible para dashboard o presentación
+Figura / Gráfico,fig_top3_amenazas_mejorado,,,Visualización disponible para dashboard o presentación
+Tabla / DataFrame,df_5_partidos_tfm,5.0,13.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_amenaza,5.0,10.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_amenaza_1,5.0,11.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_amenaza_principal_rival,5.0,10.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_barras_rs,9.0,5.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_base_pre,5.0,10.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_cards_dashboard_rs,7.0,5.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_cards_jugadores_rivales,5.0,9.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_cards_jugadores_rs,6.0,5.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_cards_prepartido_5,5.0,10.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_cards_prepartido_finales,5.0,9.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_comp,20.0,124.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_conclusiones_tfm_rs,5.0,3.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_criterios_postpartido_5,5.0,6.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_dashboard_jugadores_rivales,40.0,18.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_dashboard_partidos_final,5.0,24.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_dashboard_prepartido_completo,5.0,18.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_diccionario_indices_rs,15.0,5.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_eq,0.0,49.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_equipo,41.0,137.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_equipos,20.0,118.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_equipos_kpis,20.0,47.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_equipos_q,20.0,124.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_equipos_raw,20.0,118.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_estilos_equipos,20.0,9.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_estilos_presentacion,20.0,9.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_ficha_prepartido_completa,5.0,21.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_fichas_prepartido_5,5.0,10.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_fort_deb,15.0,5.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_informes_prepartido_5,5.0,10.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_insights_rs,8.0,4.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_interpretacion_rs,15.0,7.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_jug,5.0,11.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_jugadores_20,774.0,140.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_jugadores_base,774.0,47.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_jugadores_clave_dashboard,4.0,6.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_jugadores_fase_rs,6.0,5.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_jugadores_rivales_5,40.0,49.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_jugadores_rivales_5_fix,40.0,48.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_jugadores_rs_limpio,44.0,134.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_jugadores_rs_perfil,24.0,19.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_kpis,774.0,47.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_kpis_postpartido,6.0,4.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_lectura_cuerpo_tecnico,15.0,9.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_lectura_rs,15.0,5.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_lideres_fase_rs,4.0,6.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_lideres_jugadores_rs,4.0,6.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_lideres_rivales_fase,4.0,5.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_madurez_analisis_partidos,5.0,29.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_madurez_dashboard,5.0,7.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_madurez_plot,5.0,8.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_mapa_estilos,20.0,10.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_matriz_5_partidos,5.0,20.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_matriz_evaluacion_plan,4.0,4.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_matriz_plan_jugador,5.0,11.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_metodologia_postpartido,5.0,4.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_objetivo_jugadores_rivales_5,5.0,4.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_partidos_tfm,5.0,7.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_partidos_tfm_base,5.0,5.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_partidos_tfm_final,5.0,12.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_partidos_tfm_rivales,5.0,6.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_perfil_tactico_rs,15.0,8.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_plan_dashboard_5,5.0,18.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_plantilla_postpartido_manual,5.0,17.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_players_rs,44.0,11.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_plot,20.0,118.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_plot_cards_rivales,5.0,9.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_plot_def,303.0,47.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_plot_top3_limpio,15.0,12.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_plot_top3_rivales,15.0,12.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_postpartido_base_5,5.0,15.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_pre,5.0,22.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_pre_vs_post_dashboard,5.0,14.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_prepartido_dashboard_5,5.0,10.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_prepartido_rivales_rs,19.0,7.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_propuestas_rivales_rs,19.0,7.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_radar_rs,6.0,3.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_rank,443.0,47.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_ranking,443.0,47.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_ranking_jugadores_rivales_5,40.0,12.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_real,44.0,47.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_real_plot,24.0,47.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_real_relevante,24.0,47.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_resumen_ejecutivo_5_partidos,5.0,8.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_resumen_fases_rs,6.0,4.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_resumen_prepost_dashboard,5.0,10.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_resumen_riesgo_estilos,6.0,9.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_resumen_rs,15.0,5.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_riesgo_plot,19.0,13.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_riesgo_rivales_rs,19.0,11.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_rival,8.0,48.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_texto_metodologia,1.0,2.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_textos_presentacion_5_partidos,5.0,4.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_titulares_rs,15.0,3.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_top3_amenazas_rivales,15.0,11.0,"Tabla disponible para análisis, dashboard, exportación o presentación"
+Tabla / DataFrame,df_top5_jugadores_por_rival,5.0,12.0,"Tabla disponible para análisis, dashboard, exportación o presentación"

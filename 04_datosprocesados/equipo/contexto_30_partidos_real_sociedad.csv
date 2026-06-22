@@ -1,0 +1,31 @@
+partido,jornada,fecha,local_visitante,pases_totales,precision_pase,pases_campo_rival_%,pases_zona_peligrosa,eventos_por_minuto,archivo
+Valencia vs Real Sociedad,1,2025-08-16Z,away,376,82.18,43.88,18,8.02,1_Valencia_Real Sociedad_f4pxrt9gy35rbm5zxmjvxu5uc.json
+Real Sociedad vs Espanyol,2,2025-08-24Z,home,542,83.95,45.94,22,10.5,2_Real Sociedad_Espanyol_6g1tozuo8an9qds56u85juhg.json
+Real Oviedo vs Real Sociedad,3,2025-08-30Z,away,584,82.19,47.26,37,10.73,3_Oviedo_Real Sociedad_9eknjmjtkb8hdsde5htzqiac.json
+Real Sociedad vs Real Madrid,4,2025-09-13Z,home,582,82.13,64.26,47,10.32,4_Real Sociedad_Real Madrid_ahwl5kztusj3oxv74lxw8pas.json
+Real Betis vs Real Sociedad,5,2025-09-19Z,away,522,78.35,44.64,24,10.53,5_Betis_Real Sociedad_exqzwxpls360bd9qf89ggff8.json
+Real Sociedad vs Mallorca,6,2025-09-24Z,home,596,78.86,52.18,25,11.02,6_Real Sociedad_Mallorca_hxr2ojynmpps6ni1gbdsa1hw.json
+Barcelona vs Real Sociedad,7,2025-09-28Z,away,277,76.53,34.66,11,7.29,7_Barcelona_Real Sociedad_mh9g8wbjyoe3ub3ouu0nnsb8.json
+Real Sociedad vs Rayo Vallecano,8,2025-10-05Z,home,459,77.78,39.87,18,9.17,8_Real Sociedad_Rayo_stfu1ncpwokjdp38odv9rb4k.json
+Celta de Vigo vs Real Sociedad,9,2025-10-19Z,away,570,84.21,60.35,27,10.34,9_Celta_Real Sociedad_ub49wftchgk7szozxswbslck.json
+Real Sociedad vs Sevilla,10,2025-10-24Z,home,338,67.16,42.01,11,8.0,10_Real Sociedad_Sevilla_xcapf185ght9jj3jcgj4v0us.json
+Real Sociedad vs Athletic Club,11,2025-11-01Z,home,414,72.95,40.58,10,9.37,11_Real Sociedad_Athletic_12lophscpllg367yx7yn0mpec.json
+Elche vs Real Sociedad,12,2025-11-07Z,away,365,74.79,47.4,22,8.49,12_Elche_Real Sociedad_15au35re7u5b9ru4hoko7f3f8.json
+Osasuna vs Real Sociedad,13,2025-11-22Z,away,500,83.0,45.6,19,10.09,13_Osasuna_Real Sociedad_19fc4xa7cho23jve43ojie39w.json
+Real Sociedad vs Villarreal,14,2025-11-30Z,home,585,83.08,49.74,13,10.8,14_Real Sociedad_Villarreal_1d6oxum3q5ydyzsf48df1qas4.json
+Alavés vs Real Sociedad,15,2025-12-06Z,away,588,82.99,48.47,25,10.76,15_Alaves_Real Sociedad_1it612xdkwgzafk6n7xtzy8es.json
+Real Sociedad vs Girona,16,2025-12-12Z,home,526,84.03,51.71,30,9.88,16_Real Sociedad_Girona_1lgsuqoyjxec8b0tdfgdpl15g.json
+Levante vs Real Sociedad,17,2025-12-20Z,away,502,82.67,46.41,16,9.96,17_Levante_Real Sociedad_1qr5wncwgktkt7jksvs6m3n6c.json
+Real Sociedad vs Atlético de Madrid,18,2026-01-04Z,home,459,79.08,49.24,35,9.16,18_Real Sociedad_Atletico_1rhyonqt5a171xvtvluwo5p1w.json
+Getafe vs Real Sociedad,19,2026-01-09Z,away,495,77.58,44.85,14,10.63,19_Getafe_Real Sociedad_1xweeu166hhelv9hh9l8lnpjo.json
+Real Sociedad vs Barcelona,20,2026-01-18Z,home,257,64.2,34.63,13,7.33,20_Real Sociedad_Barcelona_20boml0nnzxlvqvyy0ylfxdlg.json
+Real Sociedad vs Celta de Vigo,21,2026-01-25Z,home,381,81.63,41.99,15,8.33,21_Real Sociedad_Celta_25yd18qv80e97mjmlmv5vc4r8.json
+Athletic Club vs Real Sociedad,22,2026-02-01Z,away,398,74.62,31.41,10,9.51,22_Athletic_Real Sociedad_288lesgslzcbljs163839jl04.json
+Real Sociedad vs Elche,23,2026-02-07Z,home,328,74.7,40.24,14,8.06,23_Real Sociedad_Elche_2agwdhyd4f3pb3wugya4art3o.json
+Real Madrid vs Real Sociedad,24,2026-02-14Z,away,572,89.51,44.41,21,9.24,24_Real Madrid_Real Sociedad_2gtyyqnsw87ojqc60b9b50dn8.json
+Real Sociedad vs Real Oviedo,25,2026-02-21Z,home,554,82.13,40.43,16,10.51,25_Real Sociedad_Oviedo_2is2f0giwb65xpuanzsstcs2c.json
+Mallorca vs Real Sociedad,26,2026-02-28Z,away,581,82.1,45.96,24,10.02,26_Mallorca_Real Sociedad_2o1qezfdq50juhi4b82nyesk4.json
+Atlético de Madrid vs Real Sociedad,27,2026-03-07Z,away,492,79.27,39.43,14,9.98,27_Atletico_Real Sociedad_2qn6lwhn5o37o0hl1unj5hl3o.json
+Real Sociedad vs Osasuna,28,2026-03-15Z,home,491,82.48,41.96,25,9.72,28_Real Sociedad_Osasuna_2uf6893vxahtyej21o0yj2vbo.json
+Villarreal vs Real Sociedad,29,2026-03-20Z,away,735,86.67,57.69,54,12.11,29_Villarreal_Real Sociedad_2xgn2f7ghbsseb9afxdo1atqs.json
+Real Sociedad vs Levante,30,2026-04-04Z,home,507,82.84,43.2,26,9.66,30_Real Sociedad_Levante_317f8nnd5kiqw5pomd91v86j8.json
